@@ -16,6 +16,10 @@
 ---
 
 ### 💡 Projects
+🔍 **[ReviewSense](https://github.com/srishivanibhavya/ReviewSense)**  
+> Combines powerful BERT embeddings (deep NLP understanding) with numerical features like review score and helpfulness votes.
+> Ideal for integrating into trust-based platforms where transparency matters (e.g., e-commerce, moderation dashboards).
+
 🔍 **[Accessibility Analyzer](https://github.com/your-accessibility-analyzer-link)**  
 > Web tool using React, Node.js, and Lighthouse API to scan for WCAG compliance.  
 > Integrated ML suggestions to improve developer efficiency by 35%.
