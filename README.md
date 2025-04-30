@@ -15,24 +15,6 @@
 
 ---
 
-### 💡 Projects
-🔍 **[ReviewSense](https://github.com/srishivanibhavya/ReviewSense)**  
-> Combines powerful BERT embeddings (deep NLP understanding) with numerical features like review score and helpfulness votes.
-> Ideal for integrating into trust-based platforms where transparency matters (e.g., e-commerce, moderation dashboards).
-
-🔍 **[Accessibility Analyzer](https://github.com/your-accessibility-analyzer-link)**  
-> Web tool using React, Node.js, and Lighthouse API to scan for WCAG compliance.  
-> Integrated ML suggestions to improve developer efficiency by 35%.
-
-👩‍🍳 **[CookMate (Voice-Controlled Cooking Assistant)](https://github.com/your-cookmate-link)**  
-> React Native + Whisper API-powered app for hands-free cooking instructions.  
-> Improved usability by 50% through voice-guided state management.
-
-🗣️ **[Customer Sentiment Classifier](https://github.com/your-sentiment-classifier-link)**  
-> Sentiment analysis of product reviews using NLP & logistic regression.
-
----
-
 ### 🏆 Achievements
 - 🎓 **Amazon ML Summer School 2024** – Selected from 85,000+ applicants  
 - 🎓 **Harvard WeCode Scholar 2025** – Full scholarship to global tech conf  
