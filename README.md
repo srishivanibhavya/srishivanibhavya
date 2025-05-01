@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Sri Shivani Bhavya Rapolu
 
 🎓 **Computer Science Undergraduate** at ACE Engineering College  
-💻 Full-stack developer | Accessibility advocate | ML enthusiast  
+💻 Full-stack developer | ML enthusiast  
 🚀 Building scalable systems, real-world solutions, and impactful tech.
 
 ---
